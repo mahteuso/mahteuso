@@ -1,7 +1,6 @@
 Olá, me chamo Mateus, bem vindo ao meu perfil GitHub 👋
 - ---
-- 🔭 Atualmente estou em busca de estágio
-- 🌱 Curso 3º Semestre de Análise e Desenvolvimento de Sistemas
+- 🌱 Curso 6º Semestre de Análise e Desenvolvimento de Sistemas
 - :zap: Estou aprofundando meus conhecimentos em Arquitetura Rest com SpringBoot
 
 ##
